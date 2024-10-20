@@ -2,3 +2,7 @@
 2024-10-20 19:57:54,392 TRACE a.f.b.a.P.PerformanceTests [main] 500 iterations of SelfOrganizingSearchTranspose took: 344600 nanoseconds for an average of 689
 2024-10-20 19:57:54,465 TRACE a.f.b.a.P.PerformanceTests [main] 500 iterations of binarySearchRecursive took: 5631800 nanoseconds for an average of 11263
 2024-10-20 19:57:54,474 TRACE a.f.b.a.P.PerformanceTests [main] 500 iterations of binarySearchIterative took: 3626800 nanoseconds for an average of 7253
+2024-10-20 20:00:07,144 INFO a.f.b.a.P.PerformanceTests [main] *****New Benchmark at 2024-10-20T20:00:07.134651300 on DESKTOP-O1B8C8R*****
+2024-10-20 20:00:07,237 TRACE a.f.b.a.P.PerformanceTests [main] 500 iterations of SelfOrganizingSearchTranspose took: 277100 nanoseconds for an average of 554
+2024-10-20 20:00:07,274 TRACE a.f.b.a.P.PerformanceTests [main] 500 iterations of binarySearchRecursive took: 3783500 nanoseconds for an average of 7567
+2024-10-20 20:00:07,286 TRACE a.f.b.a.P.PerformanceTests [main] 500 iterations of binarySearchIterative took: 1728200 nanoseconds for an average of 3456
