@@ -39,7 +39,7 @@ public class SelfOrganizingListT<D> {
      * @param data data to be searched for (requires equals to be true)
      * @return found Data or null
      */
-    public D SearchTranspose(D data) {
+    public D searchTranspose(D data) {
         if(start == null) return null;
 
         if(data.equals(start.data)) {
@@ -84,6 +84,21 @@ public class SelfOrganizingListT<D> {
             current = current.next;
         }
         System.out.println();
+    }
+
+    /**
+     * Returns data at List element of index or null.
+     * @param index number of element to return data from
+     * @return data or null
+     */
+    public D getDataAtIndex(int index) {
+        D data = null;
+        ListNode<D> current = start;
+        for (int i = 0; i < index; i++) {
+            if (current.next == null) return null;
+            current = current.next;
+        }
+        return index < 0 ? null : current.data;
     }
 
 }
