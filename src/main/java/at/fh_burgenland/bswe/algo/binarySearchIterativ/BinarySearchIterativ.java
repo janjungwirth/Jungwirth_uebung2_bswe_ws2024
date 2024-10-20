@@ -1,6 +1,5 @@
-package at.fh_burgenland.bswe.algo;
+package at.fh_burgenland.bswe.algo.binarySearchIterativ;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**

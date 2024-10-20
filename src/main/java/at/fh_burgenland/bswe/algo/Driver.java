@@ -1,5 +1,6 @@
 package at.fh_burgenland.bswe.algo;
 
+import at.fh_burgenland.bswe.algo.binarySearchIterativ.BinarySearchIterativ;
 import lombok.extern.log4j.Log4j2;
 
 import java.util.Arrays;
