@@ -21,7 +21,7 @@ public class SelfOrganizingListTManager {
         System.out.println("List:");
         list.printToConsole();
         System.out.println("Search for 'D':");
-        System.out.println(list.SearchTranspose("D"));
+        System.out.println(list.searchTranspose("D"));
         System.out.println("New List:");
         list.printToConsole();
     }

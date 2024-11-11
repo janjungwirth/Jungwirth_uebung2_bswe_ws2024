@@ -76,7 +76,7 @@ public class PerformanceTests {
             int num = (int)Math.random()*10;
             long time = System.nanoTime();
 
-            list.SearchTranspose(num);
+            list.searchTranspose(num);
 
             time = System.nanoTime() - time;
             totalTime += time;
