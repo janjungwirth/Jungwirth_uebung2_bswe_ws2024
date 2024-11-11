@@ -5,7 +5,6 @@ import at.fh_burgenland.bswe.algo.binarySearchRekursiv.BinarySearchRecursiv;
 import at.fh_burgenland.bswe.algo.selfOrganizingListT.SelfOrganizingListT;
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
