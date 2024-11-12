@@ -18,3 +18,13 @@
 2024-11-12 18:45:11,339 INFO a.f.b.a.P.PerformanceTests [main] 500 random iterations of SelfOrganizingSearchTranspose on a small dataset (size 10) took: 32600 for an average of 65
 2024-11-12 18:45:11,339 INFO a.f.b.a.P.PerformanceTests [main] 500 random iterations of BinarySearchIterative on a small dataset (size 10) took: 29800 for an average of 59
 2024-11-12 18:45:11,340 INFO a.f.b.a.P.PerformanceTests [main] 500 random iterations of binarySearchRecursive on a small dataset (size 10) took: 39500 for an average of 79
+2024-11-12 19:44:55,583 INFO a.f.b.a.P.PerformanceTests [main] **New Benchmark at 2024-11-12T19:44:55.559810200 on DESKTOP-O1B8C8R**
+2024-11-12 19:44:57,659 INFO a.f.b.a.P.PerformanceTests [main] 50000 random iterations of SelfOrganizingSearchTranspose on a larger dataset (size 10000) took: 1696916600 for an average of 33938
+2024-11-12 19:44:57,669 INFO a.f.b.a.P.PerformanceTests [main] 50000 repeated iterations of SelfOrganizingSearchTranspose on a larger dataset (size 10000) took: 5316700 for an average of 106
+2024-11-12 19:44:57,896 INFO a.f.b.a.P.PerformanceTests [main] 50000 random iterations of BinarySearchIterative on a larger dataset (size 10000) took: 221066600 for an average of 4421
+2024-11-12 19:44:58,076 INFO a.f.b.a.P.PerformanceTests [main] 50000 repeated iterations of BinarySearchIterative on a larger dataset (size 10000) took: 177026800 for an average of 3540
+2024-11-12 19:44:58,114 INFO a.f.b.a.P.PerformanceTests [main] 50000 random iterations of binarySearchRecursive on a larger dataset (size 10000) took: 31325900 for an average of 626
+2024-11-12 19:44:58,132 INFO a.f.b.a.P.PerformanceTests [main] 50000 repeated iterations of binarySearchRecursive on a larger dataset (size 10000) took: 12349200 for an average of 246
+2024-11-12 19:44:58,393 INFO a.f.b.a.P.PerformanceTests [main] 500 random iterations of SelfOrganizingSearchTranspose on a small dataset (size 10) took: 137700 for an average of 275
+2024-11-12 19:44:58,394 INFO a.f.b.a.P.PerformanceTests [main] 500 random iterations of BinarySearchIterative on a small dataset (size 10) took: 119400 for an average of 238
+2024-11-12 19:44:58,395 INFO a.f.b.a.P.PerformanceTests [main] 500 random iterations of binarySearchRecursive on a small dataset (size 10) took: 165800 for an average of 33
